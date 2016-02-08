@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Red Coat Diaries]]></title>
         <description><![CDATA[Red Coat Diaries]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/red-coat-diaries/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 00:12:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 00:12:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/red-coat-diaries/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeae93c5-c66c-4b34-9289-05b67457377e.jpg">]]></description>
+            <link>https://thegrid.ai/red-coat-diaries/7508dd5f-e192-4512-9d09-74967ec50c7d/index.html</link>
+            <guid isPermaLink="false">7508dd5f-e192-4512-9d09-74967ec50c7d</guid>
+            <pubDate>Mon, 08 Feb 2016 00:12:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/baf32893-66bb-47b1-a706-c1e1afc467e2.jpg">]]></description>
-            <link>undefinedd650462f-1f02-4393-90d0-9b63f0167207/index.html</link>
+            <link>https://thegrid.ai/red-coat-diaries/d650462f-1f02-4393-90d0-9b63f0167207/index.html</link>
             <guid isPermaLink="false">d650462f-1f02-4393-90d0-9b63f0167207</guid>
             <pubDate>Mon, 08 Feb 2016 00:12:10 GMT</pubDate>
         </item>

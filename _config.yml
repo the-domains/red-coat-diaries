@@ -1,28 +1,18 @@
-name: Red Coat Diaries
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#d8f5fb'
-    - '#952121'
-    - '#7b602b'
-    - '#76b4d9'
-    - '#000000'
+    - '#A8B8C0'
+    - '#706028'
+    - '#6088A0'
+    - '#902020'
+    - '#D0E8F0'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.5
+  lightness: 0.762387
+  rhythmicContrast: 0.862612
+  saturation: 0.748873
+cta: {}
+layout_spectrum: 0.917792
+name: Red Coat Diaries
+opengraph: {}
 purpose: []
+typography_spectrum: 0
